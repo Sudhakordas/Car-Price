@@ -11,3 +11,6 @@ Then choose the best algorithm interms of mean-squared-error. Then convert this 
 ## Demo
 Link of the web app: [https://car-ml-app.herokuapp.com/](https://car-ml-app.herokuapp.com/)
 
+https://github.com/Sudhakordas/Car-Price/blob/main/Car-Price/Car-1.JPG
+https://github.com/Sudhakordas/Car-Price/blob/main/Car-Price/Car-2.JPG
+
